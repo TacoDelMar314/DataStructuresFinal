@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:diamond_pickaxe": 6956
+    },
+    "minecraft:broken": {
+      "minecraft:diamond_pickaxe": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 495614,
+      "minecraft:leave_game": 2,
+      "minecraft:play_time": 495614,
+      "minecraft:time_since_death": 495614,
+      "minecraft:walk_one_cm": 258,
+      "minecraft:total_world_time": 495614
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_pickaxe": 4
+    },
+    "minecraft:mined": {
+      "minecraft:cobblestone": 6956
+    }
+  },
+  "DataVersion": 6930
+}

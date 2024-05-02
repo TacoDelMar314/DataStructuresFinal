@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 28958603,
+      "minecraft:walk_one_cm": 3753,
+      "minecraft:leave_game": 22,
+      "minecraft:play_time": 30708949,
+      "minecraft:damage_taken": 3340,
+      "minecraft:time_since_death": 28958603,
+      "minecraft:deaths": 12,
+      "minecraft:total_world_time": 30708949,
+      "minecraft:damage_resisted": 148,
+      "minecraft:fall_one_cm": 1412,
+      "minecraft:fly_one_cm": 6260
+    },
+    "minecraft:picked_up": {
+      "minecraft:kelp": 2,
+      "minecraft:spruce_planks": 4
+    },
+    "minecraft:killed_by": {
+      "minecraft:phantom": 2,
+      "minecraft:zombie": 2,
+      "minecraft:player": 8
+    }
+  },
+  "DataVersion": 6930
+}

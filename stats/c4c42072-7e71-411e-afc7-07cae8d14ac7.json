@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:peony": 1
+    },
+    "minecraft:mined": {
+      "minecraft:peony": 1
+    },
+    "minecraft:custom": {
+      "minecraft:jump": 843,
+      "minecraft:time_since_rest": 77657,
+      "minecraft:damage_dealt": 515,
+      "minecraft:leave_game": 5,
+      "minecraft:crouch_one_cm": 211,
+      "minecraft:play_time": 77657,
+      "minecraft:sprint_one_cm": 18440,
+      "minecraft:damage_taken": 1532,
+      "minecraft:time_since_death": 77657,
+      "minecraft:walk_one_cm": 82290,
+      "minecraft:sneak_time": 55,
+      "minecraft:total_world_time": 77657,
+      "minecraft:climb_one_cm": 387,
+      "minecraft:damage_resisted": 68,
+      "minecraft:fly_one_cm": 80331,
+      "minecraft:fall_one_cm": 21784,
+      "minecraft:player_kills": 4
+    },
+    "minecraft:picked_up": {
+      "minecraft:peony": 1
+    },
+    "minecraft:killed": {
+      "minecraft:player": 4
+    }
+  },
+  "DataVersion": 6930
+}
